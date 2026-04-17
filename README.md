@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./gojo-banner.gif" width="100%" style="border-radius: 12px;"/>
+<img src="./assets/gojo-banner.gif" width="60%" style="border-radius: 12px;"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D2B,50:4B0082,100:1E90FF&height=4&section=header" width="100%"/>
 
@@ -8,15 +8,13 @@
 
 <br/>
 
-> *"Nah, I'd win."*
+*"Nah, I'd win."*
 
 <br/>
 
 [![Website](https://img.shields.io/badge/my3dp.ae-0D0D2B?style=for-the-badge&logo=googlechrome&logoColor=1E90FF)](https://my3dp.ae)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D2B?style=for-the-badge&logo=linkedin&logoColor=8A2BE2)](https://linkedin.com/in/abdulwahhabali)
 [![GitHub](https://img.shields.io/badge/GitHub-0D0D2B?style=for-the-badge&logo=github&logoColor=6495ED)](https://github.com/AbdulwahhabAli)
-
-</div>
 
 ---
 
@@ -44,11 +42,9 @@
 
 ---
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulwahhabAli&background=0D0D2B&stroke=4B0082&ring=8A2BE2&fire=1E90FF&currStreakNum=B0C4DE&sideNums=B0C4DE&currStreakLabel=8A2BE2&sideLabels=6495ED&dates=4B0082&border=4B0082" height="160"/>
-
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=AbdulwahhabAli&color=8A2BE2&style=flat-square&label=views"/>
 
