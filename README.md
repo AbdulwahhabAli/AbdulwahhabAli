@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./gojo-banner.gif" width="60%" style="border-radius: 12px;"/>
+<!-- <img src="./gojo-banner.gif" width="60%" style="border-radius: 12px;"/> -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D2B,50:4B0082,100:1E90FF&height=4&section=header" width="100%"/>
 
