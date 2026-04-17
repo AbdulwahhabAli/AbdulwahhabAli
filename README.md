@@ -2,8 +2,16 @@
 
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D2B,50:4B0082,100:1E90FF&height=220&section=header&text=Abdulwahhab%20Ali&fontSize=50&fontColor=E0E0FF&fontAlignY=35&desc=%E2%9C%A6%20Throughout%20Heaven%20and%20Earth,%20I%20Alone%20Am%20The%20Honored%20One%20%E2%9C%A6&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
+<!-- ⬇️ REPLACE THE IMAGE URL BELOW WITH YOUR OWN GOJO IMAGE ⬇️ -->
+<!-- Upload a Gojo image to your repo (e.g. /assets/gojo-banner.png) and update the src -->
+<img src="./assets/gojo-banner.png" alt="Gojo Satoru" width="100%" style="border-radius: 12px;"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D2B,50:4B0082,100:1E90FF&height=4&section=header" width="100%"/>
+
+### ✦ `Abdulwahhab Ali` ✦
+<sub>Full-Stack Developer &nbsp;|&nbsp; ML Enthusiast &nbsp;|&nbsp; UAE 🇦🇪</sub>
 
 <!-- Six Eyes Divider -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -38,7 +46,7 @@
 name: "Abdulwahhab Ali"
 title: "Full-Stack Developer & ML Enthusiast"
 location: "UAE 🇦🇪"
-education: "B.Sc. Computer Science @ UAEU (GPA: 3.82)"
+education: "B.Sc. Computer Science @ UAEU"
 current_arc: "Building things that push boundaries"
 cursed_technique: "Turning caffeine into production code"
 
@@ -56,14 +64,12 @@ fun_facts:
 </td>
 <td width="40%" align="center">
 
-<img src="https://img.shields.io/badge/GPA-3.82%2F4.0-1E90FF?style=for-the-badge&labelColor=0D0D2B"/>
-<br/><br/>
 <img src="https://img.shields.io/badge/Dean's%20List-Fall%202023%20→%20Present-8A2BE2?style=for-the-badge&labelColor=0D0D2B"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/Domain-Full--Stack%20%2B%20ML-4B0082?style=for-the-badge&labelColor=0D0D2B"/>
 <br/><br/>
 
-> *"Don't worry. I'm the strongest."*
+> *"Nah, I'd win."*
 
 </td>
 </tr>
@@ -76,13 +82,13 @@ fun_facts:
 <div align="center">
 
 #### 🔵 **B L U E** — Languages
-![Python](https://img.shields.io/badge/Python-0D0D2B?style=for-the-badge&logo=python&logoColor=1E90FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D0D2B?style=for-the-badge&logo=javascript&logoColor=6495ED)
+![TSX](https://img.shields.io/badge/TSX-0D0D2B?style=for-the-badge&logo=react&logoColor=1E90FF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D0D2B?style=for-the-badge&logo=typescript&logoColor=4169E1)
-![Java](https://img.shields.io/badge/Java-0D0D2B?style=for-the-badge&logo=openjdk&logoColor=7B68EE)
-![C++](https://img.shields.io/badge/C++-0D0D2B?style=for-the-badge&logo=cplusplus&logoColor=6A5ACD)
+![Python](https://img.shields.io/badge/Python-0D0D2B?style=for-the-badge&logo=python&logoColor=6495ED)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0D2B?style=for-the-badge&logo=javascript&logoColor=7B68EE)
+![Java](https://img.shields.io/badge/Java-0D0D2B?style=for-the-badge&logo=openjdk&logoColor=6A5ACD)
 ![SQL](https://img.shields.io/badge/SQL-0D0D2B?style=for-the-badge&logo=postgresql&logoColor=87CEEB)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-0D0D2B?style=for-the-badge&logo=html5&logoColor=9370DB)
+![C++](https://img.shields.io/badge/C++-0D0D2B?style=for-the-badge&logo=cplusplus&logoColor=9370DB)
 
 #### 🟣 **R E D** — Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-1a0033?style=for-the-badge&logo=react&logoColor=8A2BE2)
